@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "type": "video",
+            "id": "random_string",
+            "attributes": {
+                "thumbnail_url": "https://somewhere.com/thumbnail.jpg"
+            }
+        }
+    ]
+}
