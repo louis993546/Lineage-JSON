@@ -2,9 +2,20 @@
     "data": [
         {
             "type": "video",
-            "id": "random_string",
+            "id": "6Hgiw3xu2jl",
             "attributes": {
-                "thumbnail_url": "https://somewhere.com/thumbnail.jpg"
+                "thumbnail_url": "https://img.youtube.com/vi/IPAqPA5WF8w/0.jpg",
+                "host": "youtube",
+                "url": "https://www.youtube.com/watch?v=IPAqPA5WF8w"
+            }
+        },
+        {
+            "type": "video",
+            "id": "0cwrfjvDFq4",
+            "attributes": {
+                "thumbnail_url": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
+                "host": "youtube",
+                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
             }
         }
     ]
